@@ -1,21 +1,21 @@
 <h1>Nexus News - News Website</h1>
 Technologies: HTML5, CSS3, JavaScript
 
-<h3>Project Overview:</h3> Developed a dynamic and responsive news website that delivers real-time news updates from around the globe. The website is designed to provide users with the latest headlines and stories in an intuitive and easy-to-navigate interface.
+<h2>Project Overview:</h2> Developed a dynamic and responsive news website that delivers real-time news updates from around the globe. The website is designed to provide users with the latest headlines and stories in an intuitive and easy-to-navigate interface.
 
-<h3>Key Features:</h3>
+<h2>Key Features:</h2>
 
-Real-Time News Integration: Utilized JavaScript’s fetch API to interact with the newsapi.org service, retrieving and displaying the most recent news articles across various categories such as technology, sports, entertainment, and more.
+<h4>Real-Time News Integration:</h4> Utilized JavaScript’s fetch API to interact with the newsapi.org service, retrieving and displaying the most recent news articles across various categories such as technology, sports, entertainment, and more.
 
-Responsive Design: Designed the user interface using HTML5 and CSS3 to ensure the website is fully responsive and accessible across different devices, including desktops, tablets, and smartphones.
+<h4>Responsive Design:</h4> Designed the user interface using HTML5 and CSS3 to ensure the website is fully responsive and accessible across different devices, including desktops, tablets, and smartphones.
 
-Efficient Data Handling: Implemented efficient data fetching and handling techniques to ensure that the website loads quickly and displays up-to-date information without unnecessary delays.
+<h4>Efficient Data Handling:</h4> Implemented efficient data fetching and handling techniques to ensure that the website loads quickly and displays up-to-date information without unnecessary delays.
 
-User Experience: Focused on creating a seamless user experience by organizing news articles into easily navigable sections and enabling users to quickly access the information they are interested in.
+<h4>User Experience:</h4> Focused on creating a seamless user experience by organizing news articles into easily navigable sections and enabling users to quickly access the information they are interested in.
 
-<h3>Impact and Learning:</h3>
+<h2>Impact and Learning:</h2>
 
-This project demonstrates proficiency in modern web development practices, particularly in integrating third-party APIs and handling real-time data.\
+This project demonstrates proficiency in modern web development practices, particularly in integrating third-party APIs and handling real-time data.
 
 Gained valuable experience in building scalable web applications that prioritize performance and user experience.
 
